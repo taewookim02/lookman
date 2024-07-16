@@ -132,7 +132,7 @@
 1. git clone
 2. Eclipse에서 프로젝트 불러오기 (`/semiWorkspace/prj`)
 3. Eclipse Dynamic Web 모듈 4.0으로 설정
-4. Tomcat 서버 추가
+4. Tomcat (9.0 버전) 서버 추가
 5. Java JDK 버전 17 설정
 6. 라이브러리 의존성 추가 (`/WEB-INF/lib/`)
    - gson-2.10.1.jar
