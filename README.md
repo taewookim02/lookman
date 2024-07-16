@@ -141,8 +141,8 @@
 
 ## 기여 방법
 
-1. 이 저장소를 포크(Fork)합니다.
-2. 새로운 기능 브랜치를 생성합니다 (`git checkout -b feature/AmazingFeature`).
-3. 변경 사항을 커밋합니다 (`git commit -m '새로운 기능 추가'`).
-4. 브랜치에 푸시합니다 (`git push origin feature/AmazingFeature`).
-5. Pull Request를 생성합니다.
+1. 프로젝트 fork하기
+2. 새로운 기능 브랜치 생성 (`git checkout -b feature/AmazingFeature`).
+3. 변경 사항 커밋 (`git commit -m '새로운 기능 추가'`).
+4. 브랜치에 푸시 (`git push origin feature/AmazingFeature`).
+5. Pull Request 생성
