@@ -73,6 +73,12 @@
 
 - [ERD 링크](https://www.erdcloud.com/d/tKdES5G5DbGN77GDF)
 
+### UI 설계
+
+![UI 설계](./docs/ui.png)
+
+- [Figma 링크](https://www.figma.com/design/sq8y253DRwbcRtgtXZT0R7/Lookman?node-id=0-1&t=9VT1KMKAnkwZpDSt-1)
+
 ### 상품 상세
 
 ![상품 상세](./docs/product-details.png)
